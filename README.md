@@ -16,4 +16,4 @@ Eu sou uma pessoa extremamente versatil e agil com tudo o que faço, devido ao m
 - Banco de dados
 - além das habilidades que a etec está me fornecendo, atualmente estou estudando C# de forma independente. <br>
 ### **Curriculo com mais detalhes:** <br>
-https://drive.google.com/file/d/1DANUIWbi4caslYNd5TtsrfVJQEeNZqA1/view?usp=drive_link <br>
+https://drive.google.com/file/d/1ThZNKxVNK_SCkZpcLTXU-QXkzCp7ieqo/view?usp=sharing <br>
