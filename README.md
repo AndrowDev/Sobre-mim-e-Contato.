@@ -1,19 +1,22 @@
-# Sobre-mim-e-Contato.
-## **Formas de Contato:** <br>
-Linkedin: https://www.linkedin.com/in/bruno-henrique-martins-ferreira-430077265. <br>
-Email: brunohmfcorporativo@gmail.com. <br>
-Telefone: 11 988419059. <br>
+# **Sobre Mim e Contato**  
 
-## **Sobre Mim:** <br>
-**Cursando - Desenvolvimento de Sistemas.** <br>
-Local - Etec Prof. Horácio Augusto da Silveira. <br>
-Eu sou uma pessoa extremamente versatil e agil com tudo o que faço, devido ao meu amor pela area estou sempre buscando por melhorar minhas formações e habilidades, empenhado na evolução e em desempenhar o melhor serviço possivel.
-## Habilidades
-- Desenvolvimento Web
-- C++
-- Design Digital
-- Operação de Software Aplicado
-- Banco de dados
-- além das habilidades que a etec está me fornecendo, atualmente estou estudando C# de forma independente. <br>
-### **Curriculo com mais detalhes:** <br>
-https://drive.google.com/file/d/1ThZNKxVNK_SCkZpcLTXU-QXkzCp7ieqo/view?usp=sharing <br>
+## **Formas de Contato:**  
+- **LinkedIn:** [Bruno Henrique Martins Ferreira](https://www.linkedin.com/in/bruno-henrique-martins-ferreira-430077265/)  
+- **Email:** brunohmfcorporativo@gmail.com  
+- **Telefone:** (11) 98841-9059  
+
+## **Sobre Mim:**  
+Atualmente cursando **Técnico em Desenvolvimento de Sistemas** na ETEC Prof. Horácio Augusto da Silveira, estou em constante busca por aprendizado e aprimoramento profissional. Tenho grande paixão pela área de tecnologia e sempre procuro me especializar, desenvolvendo habilidades que me permitam oferecer soluções eficientes e inovadoras.  
+
+Minha versatilidade e agilidade me ajudam a enfrentar desafios com criatividade e comprometimento, garantindo sempre o melhor desempenho nas atividades que realizo. Além do conhecimento adquirido no curso, estudo de forma independente para me aprofundar em tecnologias como **C#**, integração de APIs e Google Cloud.  
+
+## **Habilidades:**  
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, ASP.NET e Angular  
+- **Banco de Dados:** SQL Server e MongoDB  
+- **Programação:** C# (independente), C++  
+- **Design Digital:** Experiência em design e estratégias visuais  
+- **Integração de APIs:** RESTful, Google Routes, Google Maps  
+- **Outros:** Operação de software aplicado, boas práticas de programação (SOLID, Clean Code, Design Patterns)  
+
+## **Currículo Detalhado:**  
+[Veja meu currículo completo aqui](https://drive.google.com/file/d/1-bWvoDUr09pGM3_qHWdr_0MmX8pSpjxi/view?usp=sharing)  
